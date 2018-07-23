@@ -1,2 +1,4 @@
 This is Pascal code circa summer 1991. It computed and plotted Mandelbrot
 sets and strange attractors.
+
+The line endings are old Mac CR style.
